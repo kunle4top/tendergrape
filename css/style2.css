@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+}
+
+header{
+  background-color: #7c0594;
+  height: 60px;
+  margin: 0px;
+  clear:both;
+  width:100%;
+}
+
+.schname{
+  color: #ffffff;
+  float: left;
+  padding-left: 10px;
+  font-size:;
+  width:550px;
+  height: 60px;
+  margin-right: 50px;
+  background-color: ;
+  background-image: linear-gradient(rgb(241, 143, 181),rgb(59, 59, 59));
+  font-size: 3rem;
+  font-weight: bold;
+
+}
+
+nav{
+  float: right;
+  text-align:;
+  background-color:;
+  height: 60px;
+  
+  }
+
+  #schn{
+    display: none;
+  }
+
+  .topnav .icon{
+    display: none;
+  }
+
+
+
+  /*Responsive*/
+ @media only screen and (max-width: 600px){
+	.topnav a:not(:first-child) {display: none;}
+  .schname{
+		 display: none;
+  	}
+
+     #schn {
+      display:block;
+      float:left;
+    }
+    #navlink{
+      float: left;
+     
+    }
+
+    .topnav a.icon {
+      float: right;
+      display: block;
+      margin-left:;
+    }
+
+    #navlink .topnav a {display: none;}
+}
+
+
+
+ 
+ @media screen and (max-width: 600px) {
+   .topnav.responsive {position: relative;}
+   .topnav.responsive a.icon {
+     position: absolute;
+     right: 0;
+     top: 0;
+   }
+ 
+   .topnav.responsive  a {
+     float: left;
+     display: block;
+     text-align: left;
+     
+    
+   }
+  }
