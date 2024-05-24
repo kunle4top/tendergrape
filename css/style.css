@@ -15,7 +15,7 @@ header{
 }
 
 .schname{
-  color: hsl(71, 94%, 50%);
+  color: rgb(62, 187, 4);
   float: left;
   padding-left: 10px;
   font-size:;
@@ -23,7 +23,7 @@ header{
   height: 65px;
   margin-right:;
   background-color: ;
-  background-image: linear-gradient(rgb(243, 130, 159),rgb(248, 146, 207));
+  background-image: linear-gradient(rgb(173, 238, 163),rgb(219, 243, 213));
   font-size: 3rem;
   font-weight: bold;
 
@@ -58,16 +58,17 @@ overflow: hidden;
   font-size: 1.6rem;
  
 }
-.sch{
-  color:  hsl(71, 94%, 50%);
+.schn{
+  color:  hsl(71, 93%, 29%);
 }
+
 .topnav a:hover{
   background-color: rgb(253, 252, 252);
-  color:black ;
+  color:rgb(0, 0, 0) ;
   
 }
 .topnav a.active{
-  background-color: rgb(248, 119, 179);
+  background-color: rgb(62, 187, 4);
 }
 
 .topnav .icon, .schn{
@@ -147,6 +148,16 @@ background-color: #555;
 }
 
 /*-- myExams --*/  
+
+.myRecord{
+  display:none;
+  /*--background-color: #fff;
+  font-weight: bold;
+  padding: 5px 15px;
+  line-height: 2.5em;---*/
+  
+}
+
 #myExams, .myExams2{
   display: none;
   background-color: #fff;
@@ -233,7 +244,7 @@ span.grid-w3l-ser {
  .topnav a {display: none;}
  .schn{display: block;
         height: 65px; 
-        background-image: linear-gradient(rgb(243, 130, 159),rgb(248, 146, 207));
+        background-image: linear-gradient(rgb(83, 243, 131),rgb(237, 248, 242));
         font-weight: bold;
 }
 
@@ -261,6 +272,6 @@ span.grid-w3l-ser {
     max-width: ;
    
   }
-  .topnav.responsive  a:hover{background-color: rgb(248, 119, 179);}
+  .topnav.responsive  a:hover{background-color: rgb(252, 252, 252);}
  
 }
