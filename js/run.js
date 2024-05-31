@@ -137,7 +137,7 @@ n= document.getElementById("nur23rdterm");
 }
 
 
-function myFunction_201() {
+function myFunction_2001() {
   var x = document.getElementById("nur22ndterm");
   y= document.getElementById("nur21sterm");
   n= document.getElementById("nur23rdterm");
@@ -320,6 +320,129 @@ function myFunction_203() {
   var x = document.getElementById("js1a3rdterm");
   y= document.getElementById("js1a1sterm");
   n= document.getElementById("js1a2ndterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+//CLASS NAVIGATION Jss1 B
+function myFunction_204() {
+  var x = document.getElementById("js1b1sterm");
+y= document.getElementByd("js1b2ndterm");
+n= document.getElementById("js1b3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_205() {
+  var x = document.getElementById("js1b2ndterm");
+  y= document.getElementById("js1b1sterm");
+  n= document.getElementById("js1b3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_206() {
+  var x = document.getElementById("js1b3rdterm");
+  y= document.getElementById("js1b1sterm");
+  n= document.getElementById("js1b2ndterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+//CLASS NAVIGATION Jss2 A
+function myFunction_207() {
+  var x = document.getElementById("js2a1sterm");
+y= document.getElementByd("js2a2ndterm");
+n= document.getElementById("js2a3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_208() {
+  var x = document.getElementById("js2a2ndterm");
+  y= document.getElementById("js2a1sterm");
+  n= document.getElementById("js2a3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_209() {
+  var x = document.getElementById("js2a3rdterm");
+  y= document.getElementById("js2a1sterm");
+  n= document.getElementById("js2a2ndterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+//CLASS NAVIGATION Jss2 B
+function myFunction_210() {
+  var x = document.getElementById("js2b1sterm");
+y= document.getElementByd("js2b2ndterm");
+n= document.getElementById("js2b3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_211() {
+  var x = document.getElementById("js2b2ndterm");
+  y= document.getElementById("js2b1sterm");
+  n= document.getElementById("js2b3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_212() {
+  var x = document.getElementById("js2b3rdterm");
+  y= document.getElementById("js2b1sterm");
+  n= document.getElementById("js2b2ndterm");
   if (x.style.display === "none") {
     x.style.display = "block";
     y.style.display ="none";
