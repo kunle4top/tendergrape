@@ -451,3 +451,85 @@ function myFunction_212() {
     x.style.display = "none";
     }
 }
+
+//CLASS NAVIGATION Jss3 A
+function myFunction_213() {
+  var x = document.getElementById("js3a1sterm");
+y= document.getElementByd("js3a2ndterm");
+n= document.getElementById("js3a3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_214() {
+  var x = document.getElementById("js3a2ndterm");
+  y= document.getElementById("js3a1sterm");
+  n= document.getElementById("js3a3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_215() {
+  var x = document.getElementById("js3a3rdterm");
+  y= document.getElementById("js3a1sterm");
+  n= document.getElementById("js3a2ndterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+//CLASS NAVIGATION Jss3 B
+function myFunction_216() {
+  var x = document.getElementById("js3b1sterm");
+y= document.getElementByd("js3b2ndterm");
+n= document.getElementById("js3b3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_217() {
+  var x = document.getElementById("js3b2ndterm");
+  y= document.getElementById("js3b1sterm");
+  n= document.getElementById("js3b3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_218() {
+  var x = document.getElementById("js3b3rdterm");
+  y= document.getElementById("js3b1sterm");
+  n= document.getElementById("js3b2ndterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
