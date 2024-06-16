@@ -533,3 +533,253 @@ function myFunction_218() {
     x.style.display = "none";
     }
 }
+
+//CLASS NAVIGATION ss1 A Sci
+function myFunction_219() {
+  var x = document.getElementById("ss1A1sterm");
+y= document.getElementByd("ss1A2ndterm");
+n= document.getElementById("ss1A3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_220() {
+  var x = document.getElementById("ss1A2ndterm");
+  y= document.getElementById("ss1A1sterm");
+  n= document.getElementById("ss1A3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_221() {
+  var x = document.getElementById("ss1A3rdtermart");
+  y= document.getElementById("ss1A1stermart");
+  n= document.getElementById("ss1A2ndtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+//CLASS NAVIGATION ss1 A ART
+function myFunction_222() {
+  var x = document.getElementById("ss1A1stermart");
+y= document.getElementByd("ss1A2ndtermart");
+n= document.getElementById("ss1A3rdtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_223() {
+  var x = document.getElementById("ss1A2ndtermart");
+  y= document.getElementById("ss1A1stermart");
+  n= document.getElementById("ss1A3rdtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_224() {
+  var x = document.getElementById("ss1A3rdtermart");
+  y= document.getElementById("ss1A1stermart");
+  n= document.getElementById("ss1A2ndtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+
+//CLASS NAVIGATION ss1 A Commercial
+function myFunction_225() {
+  var x = document.getElementById("ss1A1stermcom");
+y= document.getElementByd("ss1A2ndtermcom");
+n= document.getElementById("ss1A3rdtermcom");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_226() {
+  var x = document.getElementById("ss1A2ndtermcom");
+  y= document.getElementById("ss1A1stermcom");
+  n= document.getElementById("ss1A3rdtermcom");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_227() {
+  var x = document.getElementById("ss1A3rdtermcom");
+  y= document.getElementById("ss1A1stermcom");
+  n= document.getElementById("ss1A2ndtermcom");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+
+//CLASS NAVIGATION ss1 B Science
+function myFunction_228() {
+  var x = document.getElementById("ss1B1sterm");
+y= document.getElementByd("ss1B2ndterm");
+n= document.getElementById("ss1B3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_229() {
+  var x = document.getElementById("ss1B2ndterm");
+  y= document.getElementById("ss1B1sterm");
+  n= document.getElementById("ss1B3rdterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_230() {
+  var x = document.getElementById("ss1B3rdterm");
+  y= document.getElementById("ss1B1sterm");
+  n= document.getElementById("ss1B2ndterm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+
+//CLASS NAVIGATION ss1 ART
+function myFunction_231() {
+  var x = document.getElementById("ss1B1stermART");
+y= document.getElementByd("ss1B2ndtermART");
+n= document.getElementById("ss1B3rdtermART");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_232() {
+  var x = document.getElementById("ss1B2ndtermART");
+  y= document.getElementById("ss1B1stermART");
+  n= document.getElementById("ss1B3rdtermART");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_233() {
+  var x = document.getElementById("ss1B3rdtermART");
+  y= document.getElementById("ss1B1stermART");
+  n= document.getElementById("ss1B2ndtermART");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+
+//CLASS NAVIGATION ss1 COMMERCIAL
+function myFunction_234() {
+  var x = document.getElementById("ss1B1stermCOM");
+y= document.getElementByd("ss1B2ndtermCOM");
+n= document.getElementById("ss1B3rdtermCOM");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_235() {
+  var x = document.getElementById("ss1B2ndtermCOM");
+  y= document.getElementById("ss1B1stermCOM");
+  n= document.getElementById("ss1B3rdtermCOM");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_236() {
+  var x = document.getElementById("ss1B3rdtermCOM");
+  y= document.getElementById("ss1B1stermCOM");
+  n= document.getElementById("ss1B2ndtermCOM");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
