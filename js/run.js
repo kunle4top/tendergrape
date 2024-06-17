@@ -563,9 +563,9 @@ function myFunction_220() {
 }
 
 function myFunction_221() {
-  var x = document.getElementById("ss1A3rdtermart");
-  y= document.getElementById("ss1A1stermart");
-  n= document.getElementById("ss1A2ndtermart");
+  var x = document.getElementById("ss1A3rdterm");
+  y= document.getElementById("ss1A1sterm");
+  n= document.getElementById("ss1A2ndterm");
   if (x.style.display === "none") {
     x.style.display = "block";
     y.style.display ="none";
