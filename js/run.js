@@ -783,3 +783,45 @@ function myFunction_236() {
     x.style.display = "none";
     }
 }
+
+//CLASS NAVIGATION ss2 Science 
+function myFunction_237() {
+  var x = document.getElementById("ss21stermsci");
+y= document.getElementByd("ss22ndtermsci");
+n= document.getElementById("ss23rdtermsci");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_238() {
+  var x = document.getElementById("ss22ndtermsci");
+  y= document.getElementById("ss21stermsci");
+  n= document.getElementById("ss23rdtermsci");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_239() {
+  var x = document.getElementById("ss23rdtermsci");
+  y= document.getElementById("ss21stermsci");
+  n= document.getElementById("ss22ndtermsci");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
