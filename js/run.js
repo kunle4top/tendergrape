@@ -825,3 +825,85 @@ function myFunction_239() {
     }
 }
 
+//CLASS NAVIGATION ss2 Commercial
+function myFunction_243() {
+  var x = document.getElementById("ss21stermcom");
+y= document.getElementByd("ss22ndtermcom");
+n= document.getElementById("ss23rdtermcom");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_244() {
+  var x = document.getElementById("ss22ndtermcom");
+  y= document.getElementById("ss21stermcom");
+  n= document.getElementById("ss23rdtermcom");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_245() {
+  var x = document.getElementById("ss23rdtermcom");
+  y= document.getElementById("ss21stermcom");
+  n= document.getElementById("ss22ndtermcom");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
+//CLASS NAVIGATION ss2 ART
+function myFunction_240() {
+  var x = document.getElementById("ss21stermart");
+y= document.getElementByd("ss22ndtermart");
+n= document.getElementById("ss23rdtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+    n.style.display ="none";
+} else {
+    x.style.display = "none";
+  }
+}
+
+
+function myFunction_241() {
+  var x = document.getElementById("ss22ndtermart");
+  y= document.getElementById("ss21stermart");
+  n= document.getElementById("ss23rdtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";       
+  } else {
+    x.style.display = "none";
+    }
+}
+
+function myFunction_242() {
+  var x = document.getElementById("ss23rdtermart");
+  y= document.getElementById("ss21stermart");
+  n= document.getElementById("ss22ndtermart");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display ="none";
+ n.style.display ="none";   
+  } else {
+    x.style.display = "none";
+    }
+}
+
